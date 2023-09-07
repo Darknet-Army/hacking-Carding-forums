@@ -10,6 +10,7 @@ Welcome to the [Darknet Army](https://darknetarmy.com/ "Darknet Army") Forum, a 
 - [Getting Started](#getting-started)
 - [Registration](#Registration)
 - [Navigation](#navigation)
+- [Top Sections](#Top-Sections)
 - [Forum Rules](#forum-rules)
 - [Contributing](#contributing)
 - [Tool Sharing](#tool-sharing)
@@ -191,7 +192,7 @@ Stay abreast of the latest cybersecurity developments, vulnerabilities, and tren
 [Darknet Army Telegram Group](https://t.me/+wzg0nmxUY-tjNDVh "Darknet Army Telegram Group")
 
 ---
-[Dark Net Army](https://darknetarmy.com "Dark net army") Clear net domain 
+[Dark Net Army](https://darknetarmy.com "Dark net army")  domain: 
 https://darknetarmy.com
 ------------
 

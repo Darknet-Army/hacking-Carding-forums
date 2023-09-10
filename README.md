@@ -1,6 +1,6 @@
 # Darknet Army Forum: Share Tools & Information for Free
 
-![Darknet Army Forum Banner](https://darknetarmy.com/data/assets/logo/DNA_banner_logo_3.png)
+![Darknet Army Forum Banner](https://darknetarmy.com/data/assets/logo/DNA_banner_logo_6.png)
 
 Welcome to the [Darknet Army](https://darknetarmy.com/ "Darknet Army") Forum, a vibrant and inclusive community dedicated to sharing security tools, knowledge, and information at no cost. Our mission is to empower security enthusiasts, professionals, and all those interested in staying informed and protected in the ever-evolving digital landscape.
 
